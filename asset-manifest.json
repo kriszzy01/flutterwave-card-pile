@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flutterwave-card-pile/static/css/main.48308437.chunk.css",
+    "main.js": "/flutterwave-card-pile/static/js/main.6b101ba7.chunk.js",
+    "main.js.map": "/flutterwave-card-pile/static/js/main.6b101ba7.chunk.js.map",
+    "runtime-main.js": "/flutterwave-card-pile/static/js/runtime-main.e17c09e2.js",
+    "runtime-main.js.map": "/flutterwave-card-pile/static/js/runtime-main.e17c09e2.js.map",
+    "static/js/2.4afed95c.chunk.js": "/flutterwave-card-pile/static/js/2.4afed95c.chunk.js",
+    "static/js/2.4afed95c.chunk.js.map": "/flutterwave-card-pile/static/js/2.4afed95c.chunk.js.map",
+    "static/js/3.59d905c0.chunk.js": "/flutterwave-card-pile/static/js/3.59d905c0.chunk.js",
+    "static/js/3.59d905c0.chunk.js.map": "/flutterwave-card-pile/static/js/3.59d905c0.chunk.js.map",
+    "index.html": "/flutterwave-card-pile/index.html",
+    "static/css/main.48308437.chunk.css.map": "/flutterwave-card-pile/static/css/main.48308437.chunk.css.map",
+    "static/js/2.4afed95c.chunk.js.LICENSE.txt": "/flutterwave-card-pile/static/js/2.4afed95c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17c09e2.js",
+    "static/js/2.4afed95c.chunk.js",
+    "static/css/main.48308437.chunk.css",
+    "static/js/main.6b101ba7.chunk.js"
+  ]
+}

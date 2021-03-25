@@ -1,3 +1,4 @@
+html,
 body {
   overflow-x: hidden;
 }
@@ -9,7 +10,7 @@ header {
 .container {
   width: 200px;
   height: 200px;
-  margin: 30rem auto;  /*Added to allow scrolling*/
+  margin: 30rem auto; /*Added to allow scrolling*/
   position: relative;
 }
 

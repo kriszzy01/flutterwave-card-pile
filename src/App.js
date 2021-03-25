@@ -84,7 +84,6 @@ const App = () => {
     <>
       <header>
         <h1>Flutterwave's Value Card Pile</h1>
-        <p style={{ color: "red" }}>ALL IMAGES BELONG TO FLUTTERWAVE</p>
         <p>Scroll Down</p>
       </header>
 
